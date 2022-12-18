@@ -62,12 +62,7 @@ class _Sign_UpState extends State<Sign_Up> {
                   const SizedBox(
                     width: 5,
                   ),
-                  TextButton(
-                      onPressed: () {
-                        // Navigator.push(context,
-                        //     MaterialPageRoute(builder: (context) => SignIn()));
-                      },
-                      child: const Text("Sign In"))
+                 
                 ],
               ),
             ),
